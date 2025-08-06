@@ -2,8 +2,8 @@
   "name": "nlf",
   "title": "Node License Finder",
   "description": "Find licenses for a node application and its node_module dependencies",
-  "author": "Ian Kelly <iandotkelly@gmail.com>",
-  "version": "2.1.1",
+  "author": "Ting Xu <t2tx@icloud.com>",
+  "version": "2.1.2",
   "license": "MIT",
   "bin": {
     "nlf": "./bin/nlf-cli.js"
@@ -18,7 +18,7 @@
     "commander": "2.19.0",
     "compare-versions": "3.4.0",
     "glob-all": "^3.3.1",
-    "snyk-resolve-deps": "4.0.2"
+    "snyk-resolve-deps": "4.9.1"
   },
   "devDependencies": {
     "coveralls": "3.0.3",
